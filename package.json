@@ -5,6 +5,7 @@
     "test": "gauge run specs/"
   },
   "dependencies": {
+    "mathjs": "^9.4.4",
     "taiko": "latest"
   }
 }
